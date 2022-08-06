@@ -10,5 +10,8 @@
 # Normal rules
 #
 
+# build dir
+/build
+
 # output dir
 /dist
