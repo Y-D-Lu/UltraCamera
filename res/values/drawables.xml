@@ -235,8 +235,8 @@
     <item type="drawable" name="APKTOOL_DUMMY_483" />
     <item type="drawable" name="APKTOOL_DUMMY_484" />
     <item type="drawable" name="APKTOOL_DUMMY_485" />
-    <drawable name="APKTOOL_DUPLICATE_drawable_0x7f08047a" />
+    <!--<drawable name="APKTOOL_DUPLICATE_drawable_0x7f08047a" />
     <drawable name="APKTOOL_DUPLICATE_drawable_0x7f08047c" />
     <drawable name="APKTOOL_DUPLICATE_drawable_0x7f08047f" />
-    <drawable name="APKTOOL_DUPLICATE_drawable_0x7f080483" />
+    <drawable name="APKTOOL_DUPLICATE_drawable_0x7f080483" />-->
 </resources>
