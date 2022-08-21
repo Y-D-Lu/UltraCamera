@@ -1,5 +1,5 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: agc.apk
+apkFileName: UltraCamera.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
@@ -959,5 +959,5 @@ usesFramework:
   tag: null
 version: 2.6.1
 versionInfo:
-  versionCode: '64764891'
-  versionName: 8.4.300.414775575.18
+  versionCode: '10000'
+  versionName: 1.0.0.001

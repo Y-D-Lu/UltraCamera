@@ -757,7 +757,7 @@
 
     move-result-object v0
 
-    const-string v2, "/AGC.8.4/logs/"
+    const-string v2, "/UltraCamera/logs/"
 
     invoke-virtual {v0, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

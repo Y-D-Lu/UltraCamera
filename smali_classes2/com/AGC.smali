@@ -5346,7 +5346,7 @@
 
     if-nez v0, :cond_1
 
-    const-string v0, "/Download/AGC.8.4/configs/"
+    const-string v0, "/Download/UltraCamera/configs/"
 
     invoke-static {v1, v0}, Lcom/Fix/Pref;->setMenuValue(Ljava/lang/String;Ljava/lang/String;)V
 
